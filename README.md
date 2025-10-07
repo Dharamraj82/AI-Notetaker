@@ -85,9 +85,7 @@ This tool ensures notes are **easy to read, professional, and visually appealing
   - File Structure  
   - Deployed Links  
 
-- 🌍 **Working Deployed Link**  
-  - Frontend: *[Add link here]*  
-  - Backend: *[Add link here]*  
+ 
 
 ## 📂 File Structure
 
@@ -122,7 +120,7 @@ This tool ensures notes are **easy to read, professional, and visually appealing
 
 🌐 GitHub: [Dharamraj82](https://github.com/Dharamraj82)  
 💼 Passionate about **MERN, Java, and AI-powered applications**  
-📧 Contact: *[Add Email Here]*  
+
 
 ---
 
